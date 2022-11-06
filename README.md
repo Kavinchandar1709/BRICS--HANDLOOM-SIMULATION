@@ -6,6 +6,6 @@ Web games and simulations are still popular. We had the opportunity to demonstra
 
 <p align="center">
   <img src="https://github.com/Kavinchandar1709/BRICS--HANDLOOM-SIMULATION/blob/main/brics1.jpg" width="400" height="200"/>
-  img src="https://github.com/Kavinchandar1709/BRICS--HANDLOOM-SIMULATION/blob/main/brics2.jpg" width="400" height="200"/>
-  img src="https://github.com/Kavinchandar1709/BRICS--HANDLOOM-SIMULATION/blob/main/brics3.jpg" width="400" height="200"/>
-  img src="https://github.com/Kavinchandar1709/BRICS--HANDLOOM-SIMULATION/blob/main/brics4.jpg" width="400" height="200"/>
+  <img src="https://github.com/Kavinchandar1709/BRICS--HANDLOOM-SIMULATION/blob/main/brics2.jpg" width="400" height="200"/>
+  <img src="https://github.com/Kavinchandar1709/BRICS--HANDLOOM-SIMULATION/blob/main/brics3.jpg" width="400" height="200"/>
+  <img src="https://github.com/Kavinchandar1709/BRICS--HANDLOOM-SIMULATION/blob/main/brics4.jpg" width="400" height="200"/>
